@@ -1,2 +1,2 @@
-# Data Wrangling Menggunakan Python
+# Data Wrangling
 Data Wrangling Dengan Python
