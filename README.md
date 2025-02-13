@@ -10,4 +10,4 @@ Tahapan data wrangling meliputi:
 4. Pemfilteran data untuk fokus pada variabel atau catatan yang paling relevan
 5. Integrasi data dari beberapa sumber yang berbeda
 
-Data wrangling merupakan pondasi penting sebelum analisis atau pembuatan model prediksi dilakukan
+Data wrangling merupakan pondasi penting sebelum analisis atau pembuatan model data dalam Data Science dilakukan.
